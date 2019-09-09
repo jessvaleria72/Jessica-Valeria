@@ -311,3 +311,8 @@ p img{
     display: inline-block;
     float: left;
 }
+
+#review_2{
+    background-color: rgb(190, 229, 206);
+    font-family: 'Alegreya', sans-serif;   
+}
