@@ -304,13 +304,11 @@ form {
     font-family: 'Alegreya', sans-serif;
 }
 
-p img{
+/*p img{
     width: 35%;
-    margin-left: 105px;
-    margin-right: 50px;
     display: inline-block;
     float: left;
-}
+}*/
 
 #review_2{
     background-color: rgb(190, 229, 206);
