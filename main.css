@@ -207,7 +207,7 @@ nav li a:hover{
     margin-left: 20px;
     margin-right: 300px;
     display: inline-block;
-    background-color: #ccfadff6;
+    background-color: #cffde2f6;
     font-family: 'Alegreya', sans-serif;
 }
 
@@ -219,12 +219,13 @@ nav li a:hover{
 }
 
 .sosial-icons {
-    float: right;
     display: inline-block;
     padding: 0px 4px 2px 4px;
     font-size: 50px;
     width: 100%;
-    margin-left: 300px;
+    margin: auto;
+    margin-left: 160px;
+    margin-right: 120px;
 }
 
 .sosial-icons img{
